@@ -13,7 +13,7 @@ role = "Responsable de Ciberseguridad"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "INDITEX", url = "https://www.inditex.com/" } ]
+organizations = [ { name = "INDITEX", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Mis áreas de interés profesional son la ciberseguridad, los medios de pago y los dispositivos móviles."
@@ -80,8 +80,10 @@ interests = [
 #   icon_pack = "ai"
 #   link = "files/cv.pdf"
 
-+++
 
 Durante mi carrera profesional he trabajado tanto en grandes compañías internacionales como en pequeñas empresas españolas de nicho. De esta experiencia me quedo con la satisfacción de saber que he sido lo suficientemente afortunado de poder compartir unos valiosos años con increíbles profesionales, de los que he aprendido que el trabajo bien hecho debe ser la razón de ser en el día a día de cualquier organización.
 
 Intento estar en contacto constante con otros profesionales de mi sector para poder continuar aprendiendo y mejorando, por lo que si crees que podemos tener intereses en común, no dejes de enviarme un mensaje para comentarlo.
+
+
++++
