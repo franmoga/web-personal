@@ -4,7 +4,7 @@
 # Add more sections by duplicating this file and customizing to your requirements.
 
 widget = "custom"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
@@ -19,11 +19,11 @@ subtitle = ""
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   gradient_start = "DeepSkyBlue"
   gradient_end = "SkyBlue"
-  
+
   # Background image.
   # image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
