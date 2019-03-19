@@ -13,7 +13,7 @@ role = "Responsable de Ciberseguridad"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Deusto Business School", url = "https://dbs.deusto.es/cs/Satellite/deusto-b-school/es/deustobschool" } ]
+organizations = [ { name = "INDITEX", url = "https://www.inditex.com/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Mis áreas de interés profesional son la ciberseguridad, los medios de pago y los dispositivos móviles."
