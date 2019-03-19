@@ -20,14 +20,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Agilidad y Lean. Gestionando los proyectos y negocios del S.XXI"
-  organization = "Universidad Rey Juan Carlos"
-  certificate_url = ""
-  date_start = "2014"
-  date_end = ""
-  description = ""
-
-[[item]]
   title = "PCI Internal Security Asssessor"
   organization = "PCI Security Standards Council"
   certificate_url = ""
